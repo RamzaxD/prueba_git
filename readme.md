@@ -1,0 +1,1 @@
+este es el metodo de instrucción para implementar la pagina.
